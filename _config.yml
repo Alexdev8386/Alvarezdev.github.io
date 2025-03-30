@@ -1,1 +1,21 @@
+title: "Portafolio de Alex Álvarez Solis"
+description: "Proyectos de programación en Python y C# | Universidad Continental"
+theme: minima
+show_downloads: false
+author:
+  name: "Alex Álvarez Solis"
+  email: "alex.alvarez@example.com"
 
+header_pages:
+  - README.md
+
+minima:
+  skin: dark
+  social_links:
+    github: AlvarezDev
+    linkedin: alex-alvarez
+    email: alex.alvarez@example.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
