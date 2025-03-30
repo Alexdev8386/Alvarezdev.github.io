@@ -60,5 +60,5 @@
 ---
 
 ## 📞 Contacto  
-✉ **Email:** alex.alvarez@example.com  
+✉ **Email:** alex.alvarez98547@gmail.com  
 🌐 **Portafolio Grupal:** [Grupo 1](https://grupo01.github.io)  
